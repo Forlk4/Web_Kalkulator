@@ -1,2 +1,5 @@
 # Web_Kalkulator
-Aplikasi kalkulator dalam bentuk web
+Front End - Dicoding <br>
+Ini source code salah satu project Web Calculator (Java Script) <br>
+di kelas <b>"Belajar Fundamental Front-End Web Development"</b> Dicoding.
+Untuk melihat Hasilnya bisa di lihat di lik di bawah : https://muhammadhafizalkautsar.github.io/Web_Kalkulator/
