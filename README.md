@@ -1,6 +1,7 @@
 # Web Calculator
 
-**Web Calculator** is a project developed during the "Fundamental Front-End Web Development" training by Dicoding. This project serves as a practical exercise to learn web development concepts.
+## Introduction
+This repository contains the source code for a web calculator project developed during the "Fundamental Front-End Web Development" course by Dicoding. The project aims to demonstrate various front-end web development concepts such as HTML, CSS, and JavaScript.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,18 +11,16 @@
 - [Setup](#setup)
 - [Contributing](#contributing)
 
-## Introduction
-This repository contains the source code for a web calculator project developed during the "Fundamental Front-End Web Development" course by Dicoding. The project aims to demonstrate various front-end web development concepts such as HTML, CSS, and JavaScript.
-
 ## Demo
-Check out the live demo [here](https://muhammadhafizalkautsar.github.io/Web_Kalkulator/).
+Check out the live demo [here](https://forlk4.github.io/Web_Kalkulator/).
 
 ## Features
-- Basic arithmetic operations: addition, subtraction, multiplication, division.
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Responsive design for various screen sizes.
 - Simple and intuitive user interface.
 
 ## Technologies
+This project is built using the following technologies:
 - HTML
 - CSS
 - JavaScript
@@ -29,9 +28,9 @@ Check out the live demo [here](https://muhammadhafizalkautsar.github.io/Web_Kalk
 ## Setup
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/muhammadhafizalkautsar/Web_Kalkulator.git`
+1. Clone the repository: `git clone https://github.com/Forlk4/Web_Kalkulator.git`
 2. Navigate to the project directory: `cd Web_Kalkulator`
 3. Open `index.html` in your preferred web browser.
 
 ## Contributing
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+Contributions are welcome! To contribute to this project, fork the repository, make your changes, and submit a pull request.
